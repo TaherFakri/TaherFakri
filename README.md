@@ -5,8 +5,8 @@ Email Me 👉 ✉️ **tf22636@gmail.com** For Collaboration/Project or Anything
 
 - 🔭 **I’m currently working on:** Ascella AI
 - 🌱 **I’m currently learning:** Flask / Fast API 
-- 👯 **I’m looking to collaborate on:**Investment analysis system
-- 📫 **How to reach me:**tf22636@gmail.com
+- 👯 **I’m looking to collaborate on:** Investment analysis system
+- 📫 **How to reach me:** tf22636@gmail.com
 - 😄 **Pronouns:** Taher Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
